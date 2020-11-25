@@ -1,6 +1,6 @@
 ### About this repo
 
-This repo mainly contains some code I use in my daily work as **Media Solution Architect** and from previous professional experiences.
+This repo mainly contains some code I use in my daily work as **Media Tech Architect** and from previous professional experiences.
 
 Some of my main contributions (or at least the best documented):
 
